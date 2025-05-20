@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finanz Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Finanz Dashboard</h1>
+            <button id="theme-toggle">Dark Mode</button>
+        </header>
+        
+        <div class="stock-grid" id="stock-container">
+            <!-- Stocks werden hier eingefügt -->
+        </div>
+        
+        <div class="chart-section">
+            <h2>Marktübersicht</h2>
+            <div class="chart-container">
+                <canvas id="market-chart"></canvas>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
