@@ -1,5 +1,5 @@
 // 1. API-EINSTELLUNGEN (für Testzwecke)
-const API_KEY = "cdbde914335f42bd8b77f64e91c10e49"; // Kostenloser Test-Key
+const API_KEY = "0O93EXJ2EOTPUNBG"; // Kostenloser Test-Key
 const aktien = ["AMC", "MBT", "TSA", "MORN", "KOKAL", "REIN", "BLUE"];
 
 // 2. DARK/LIGHT MODE UMSCHALTEN
