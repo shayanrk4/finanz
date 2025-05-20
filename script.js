@@ -1,4 +1,4 @@
-const API_KEY = "cdbde914335f42bd8b77f64e91c10e49";
+const API_KEY = "0ac1f472c69044e99502d7ca8e16881e";
 const aktien = ["AMC", "MBT", "TSA", "MORN", "KOKAL", "REIN", "BLUE"];
 
 // 2. DARK/LIGHT MODE UMSCHALTEN
