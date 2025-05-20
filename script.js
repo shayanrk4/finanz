@@ -1,4 +1,4 @@
-const API_KEY = "0ac1f472c69044e99502d7ca8e16881e"; // Ersetze mit deinem echten API-Key
+const API_KEY = "X86NOH6II01P7R24"; // Ersetze mit deinem echten API-Key
 const stocks = ["AAPL", "MSFT", "TSLA", "AMZN", "GOOGL", "META", "NFLX"];
 
 // Theme Toggle
